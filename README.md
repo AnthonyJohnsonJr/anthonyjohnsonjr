@@ -5,6 +5,7 @@ Hi 👋🏽 I'm a Geospatial and Data Analyst and Mentor who is passionate about
 Tools💻: Power BI, Tableau, SQL, QGIS, and Python to create 100% data-driven, innovative insights using organizational data.
 
 Certifications 🎓 | Google Data Analyst, Tableau Desktop Specialist.
+
 Fellowships: Data Science for All - Empowerment
 
 <!--
