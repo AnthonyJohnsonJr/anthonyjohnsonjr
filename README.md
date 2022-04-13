@@ -1,4 +1,4 @@
-### Who's Anthony and What is he up to?
+### Who's Anthony and What is He up to?
 
 Hi 👋🏽 I'm a Geospatial and Data Analyst and Mentor who is passionate about strengthening the intersection of data, place, and the environment, and also, building and expanding organizations and communities. I have over 7 years of experience providing analytics insights that illuminate findings - so that true connections can be made for all. I enjoy and specialize in data analyses 📉 around financial and operational data and driving workforce strategies for both private and public sector organizations.
 
