@@ -1,4 +1,11 @@
-### Hi there 👋
+### Who's Anthony and What is he up to?
+
+Hi 👋🏽 I'm a Geospatial and Data Analyst and Mentor who is passionate about strengthening the intersection of data, place, and the environment, and also, building and expanding organizations and communities. I have over 7 years of experience providing analytics insights that illuminate findings - so that true connections can be made for all. I enjoy and specialize in data analyses 📉 around financial and operational data and driving workforce strategies for both private and public sector organizations.
+
+Tools💻: Power BI, Tableau, SQL, QGIS, and Python to create 100% data-driven, innovative insights using organizational data.
+
+Certifications 🎓 | Google Data Analyst, Tableau Desktop Specialist.
+Fellowships: Data Science for All - Empowerment
 
 <!--
 **AnthonyJohnsonJr/anthonyjohnsonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
